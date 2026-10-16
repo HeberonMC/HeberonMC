@@ -16,6 +16,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=60a8f0)
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=60a8f0)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=60a8f0)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=60a8f0)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=60a8f0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=60a8f0)
 
 ### 🐱 Proyectos
 
@@ -24,6 +27,8 @@
 | [**Heleon Studio**](https://github.com/HeberonMC/Heleon-Studio) | Launcher de Minecraft para Windows: instala la serie, sus mods y se actualiza solo | Tauri · Rust · React | 🟢 Activo · [Descargar](https://github.com/HeberonMC/Heleon-Studio/releases/latest) |
 | Heleon Panel | Panel web para gestionar series, mods, noticias y accesos del launcher | React · Supabase | 🔒 Privado |
 | Heleon Studio Source | Código fuente del launcher | Tauri · TypeScript | 🔒 Privado |
+| STATUS Car Wash | Sistema de gestión para lavaderos: órdenes, clientes, facturas PDF, cupones, caja y dashboard | PHP · MySQL · Bootstrap | 🔒 Privado |
+| STATUS Moto Wash | Gestión de lavadero de motos con membresías mensuales y portal de clientes con pago en línea | PHP · MySQL · Bootstrap | 🔒 Privado |
 
 ### 📊 Estadísticas
 
